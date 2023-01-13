@@ -7,11 +7,6 @@
 ### I'm a Site Reliability Engineer!
 With 10+ years of experience in the IT industry, I started my career as a software developer and transitioned to an infrastructure role. It became very exciting for me because I am very passionate about continuing to grow in this world of DevOps.
 
-### GitHub Stats
-
-![José Flores's GitHub stats](https://github-readme-stats.vercel.app/api?username=josefloressv&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefloressv&theme=great-gatsby&layout=compact)
-
 ### My Stack
 <a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache" /></a>
