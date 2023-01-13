@@ -5,7 +5,7 @@
 
 
 ### I'm a Site Reliability Engineer!
-With 10+ years of experience in the IT industry, I started my career as a software developer and transitioned to an infrastructure role. It became very exciting for me because I am very passionate about continuing to grow in this world of DevOps.
+With 14+ years of experience in the IT industry, I started my career as a software developer and transitioned to an infrastructure role. It became very exciting for me because I am very passionate about continuing to grow in this world of DevOps.
 
 ### My Stack
 <a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" /></a>
